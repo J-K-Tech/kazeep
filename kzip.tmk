@@ -1,0 +1,13 @@
+;compiler
+g++
+;flags
+-O2
+-w
+-g
+-static-libgcc -static-libstdc++
+-std=c++11
+;cfiles
+*.cpp
+;libraries
+;output
+-o bin\kzip.exe

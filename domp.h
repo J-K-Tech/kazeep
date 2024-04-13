@@ -1,0 +1,1 @@
+void decompress(std::string i,std::string o);
